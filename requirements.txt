@@ -1,0 +1,7 @@
+# Function dependencies, for example:
+# package>=version
+pyarrow
+fastparquet
+pandas
+google-cloud-bigquery[bqstorage,pandas]
+google-cloud-bigquery-storage
