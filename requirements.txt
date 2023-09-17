@@ -5,3 +5,4 @@ fastparquet
 pandas
 google-cloud-bigquery[bqstorage,pandas]
 google-cloud-bigquery-storage
+bs4
